@@ -8,3 +8,5 @@
 username : 항상 `OPENVIDUAPP`
 
 password : [application.properties](http://application.properties) 안에 설정한거.
+
+![algocat](Readme.assets/algocat.png)
